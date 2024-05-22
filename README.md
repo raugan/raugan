@@ -9,9 +9,7 @@
   <header>
     <h1>Hi I'm ANURAG CHAKRABARTI!</h1>
     <p>Currently an undergraduate at the <i> University of Calcutta</i></p>
-    <ul class="social-links">
-      <li><a href="[Your GitHub Profile URL]">GitHub</a></li>
-      </ul>
+    
   </header>
   <main>
     <section class="about-me">
