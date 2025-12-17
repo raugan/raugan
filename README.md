@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Anurag Chakrabarti | Data Analytics Portfolio</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -70,7 +69,7 @@
         </li>
         <li>
           <strong>‘O’ Level Diploma in Information Technology</strong>, NIELIT
-          <br>2023 – 2025 (In Progress)
+          <br>2023 – 2025
         </li>
       </ul>
     </section>
@@ -97,8 +96,8 @@
   <section>
       <h2>Contact</h2>
       <p>Email: anuragchakrabarti58@gmail.com</p>
-      <p>Phone: +91 89107 99283</p>
-    </section>
+      
+  </section>
 
   </main>
 
