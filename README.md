@@ -77,6 +77,7 @@
   <section>
       <h2>Certifications</h2>
       <ul>
+        <li>Junior Cybersecurity Analyst Career Path - Cisco</li>
         <li>Bloomberg Finance Fundamentals – Bloomberg</li>
         <li>Generative AI Mastermind – Outskill</li>
         <li>Financial Accounting (Certificate of Merit) – CTLC</li>
