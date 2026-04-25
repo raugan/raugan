@@ -1,8 +1,8 @@
-# Hi, I'm Anurag Chakrabarti 👋
+# Hey, I'm Anurag 👋
 
-**Data Analyst · Finance & Business Intelligence · Bangalore, India**
+**PGDM student · Data Science · Bangalore**
 
-Commerce graduate pursuing a PGDM in Data Science, building financial dashboards and data tools using Excel, SQL, and Python. Focused on turning structured data into clear, actionable insights.
+Commerce grad now deep into data science — learning by building. I work mostly with Excel, SQL, and Python, and I'm interested in how data can make financial decision-making clearer and faster. Currently in my first year of PGDM at IIBS Bangalore.
 
 ---
 
@@ -40,24 +40,26 @@ Commerce graduate pursuing a PGDM in Data Science, building financial dashboards
 
 ## 🚀 Projects
 
-### Aurelius — Automated Financial Dashboard
-> Tools: Microsoft Excel, VBA
+Things I've built while learning — nothing fancy, just solving real problems.
 
-Replaced a manual quarterly reporting process with an automated dashboard tracking 54+ calculations across profitability, cash flow, and growth metrics — using INDEX/MATCH, Power Query, and VBA macros.
+### Aurelius — Automated Financial Dashboard
+> Tools: Excel · VBA
+
+Built an automated dashboard to replace a manual quarterly reporting process. Tracks 54+ metrics across profitability, cash flow, and growth using INDEX/MATCH, Power Query, and VBA macros.
 
 ---
 
 ### LUMINA — Personal Finance Tracker *(in progress)*
-> Tools: SQL, MS Access, Excel, VBA
+> Tools: SQL · MS Access · VBA
 
-Personal finance tool with a structured database and automated summary dashboards for tracking income, expenses, and savings trends over time.
+A personal finance tool I'm building for myself — structured database, SQL queries, and automated dashboards to track income, expenses, and savings over time.
 
 ---
 
 ### VANGUARD — Retail Sales Analysis Tool *(in progress)*
-> Tools: SQL, Power Query, MS Access
+> Tools: SQL · Power Query · MS Access
 
-Data pipeline to consolidate and clean multi-source retail sales data, with reports identifying top-spending customer groups and tracking sales trends.
+Cleaning and consolidating retail sales data from multiple sources, then building reports to surface top customer segments and sales trends.
 
 ---
 
