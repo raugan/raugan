@@ -42,25 +42,28 @@ Commerce grad now deep into data science — learning by building. I work mostly
 
 Things I've built while learning — nothing fancy, just solving real problems.
 
-### Aurelius — Automated Financial Dashboard
-> Tools: Excel · VBA
-
-Built an automated dashboard to replace a manual quarterly reporting process. Tracks 54+ metrics across profitability, cash flow, and growth using INDEX/MATCH, Power Query, and VBA macros.
-
----
-
-### LUMINA — Personal Finance Tracker *(in progress)*
-> Tools: SQL · MS Access · VBA
-
-A personal finance tool I'm building for myself — structured database, SQL queries, and automated dashboards to track income, expenses, and savings over time.
+### Aurelius Strategic Holdings - Financial Command Centre
+Advanced Excel dashboard automating quarterly financial analysis with 54+ calculations, dynamic KPI engine, and board-ready PDF exports using VBA macros.
+- **GitHub**: [Executive-Financial-Dashboard](https://github.com/raugan/Executive-Financial-Dashboard)
+- **Skills**: Excel, VBA, Financial Analysis, Dashboard Design
 
 ---
 
-### VANGUARD — Retail Sales Analysis Tool *(in progress)*
-> Tools: SQL · Power Query · MS Access
+LUMINA: Personal Capital Intelligence & MIS Engine
+Hybrid dual-tier system combining MS Access relational database with Excel-based analytics engine featuring 10+ advanced formulas, 8 interactive charts, and AI-augmented insights.
+- **GitHub**: [Lumina-MIS-Dashboard](https://github.com/raugan/Lumina-MIS-Dashboard)
+- **Skills**: MS Access, SQL, Excel, VBA, ETL, Financial Modelling
+---
 
-Cleaning and consolidating retail sales data from multiple sources, then building reports to surface top customer segments and sales trends.
+### VANGUARD: Retail Intelligence & Revenue Attribution Engine
+End-to-end analytics system with Power Query ETL pipelines (99.9% data integrity), advanced SQL queries with CTEs and window functions, RFM segmentation, and AI-assisted strategic analysis identifying $770K+ in optimisation opportunities.
+- **GitHub**: [VANGUARD-Retail-Intelligence-Revenue-Attribution-Engine](https://github.com/raugan/VANGUARD-Retail-Intelligence-Revenue-Attribution-Engine)
+- **Skills**: Power Query, SQL, Excel, Dashboard Design, Data Visualisation
 
+### Movie Box Office Predictor
+End-to-end ML pipeline predicting movie box office success using pre-release attributes with XGBoost, achieving 93.7% ROC-AUC. Leverages SHAP for interpretability, revealing director reputation as the leading success factor. Live Streamlit deployment for real-time predictions.
+- **GitHub**: [movie-box-office-predictor](https://github.com/raugan/movie-box-office-predictor)
+- **Skills**: Python, Machine Learning, XGBoost, SHAP, Streamlit
 ---
 
 ## 🎓 Certifications
